@@ -1,6 +1,6 @@
 {
-    "versionCode": 11,
-    "releaseNotes": "<b>New Features:</b><br>- Dark mode support 🌙<br>- Performance improvements 🚀<br>- Bug fixes 🐞",
+    "versionCode": 12,
+    "releaseNotes": "<b>New Features:</b><br>- User Friendly UI🌙<br>- Performance improvements 🚀<br>- Bug fixes 🐞",
     "features": [
         "String Converter",
         "App Backup",
