@@ -1,4 +1,4 @@
 {
-  "versionCode": 6,
-  "releaseNotes": "This is what's new in the latest version. Testing only."
+    "versionCode": 2,
+    "releaseNotes": "<b>New Features:</b><br>- Dark mode support 🌙<br>- Performance improvements 🚀<br>- Bug fixes 🐞"
 }
