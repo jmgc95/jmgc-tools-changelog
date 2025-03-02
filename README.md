@@ -1,4 +1,4 @@
 {
-  "versionCode": 2,
-  "releaseNotes": "This is what's new in the latest version."
+  "versionCode": 3,
+  "releaseNotes": "This is what's new in the latest version. Testing only."
 }
